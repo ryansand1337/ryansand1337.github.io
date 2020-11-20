@@ -8,4 +8,3 @@ Here are the CSS styles I used:
 -Style your weekly schedule (Worth 5 points)
 -Striped table rows (Worth 5 points)
 -Add a browser tab favicon (Worth 10 points)
-30
