@@ -1,0 +1,48 @@
+table, th, td{
+    table-layout: fixed;
+    width: 100%;
+    border: 1px solid black;
+    border-spacing: 3px;
+    padding: 3px;
+}
+
+tr:nth-child(even){
+    background-color: gray;
+}
+
+h1, h2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+body{
+    font-family: sans-serif;
+}
+
+.footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: black;
+    text-align: right;
+}
+
+.thead{
+    background-color: yellow;
+}
+
+.ethics{
+    background-color: aqua;
+}
+
+.discrete{
+    background-color: blue;
+}
+
+.calculus{
+    background-color: red;
+}
+
+.webdev{
+    background-color: purple;
+}
